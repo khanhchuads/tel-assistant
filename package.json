@@ -17,13 +17,13 @@
     "eject": "react-scripts eject"
   },
   "repository": {
-    "url": "https://github.com/khanhchuads/tel-assistent.git",
+    "url": "https://github.com/khanhchuads/tel-assistant.git",
     "type": "git"
   },
   "bugs": {
-    "url": "https://github.com/khanhchuads/tel-assistent/issues"
+    "url": "https://github.com/khanhchuads/tel-assistant/issues"
   },
-  "homepage": "https://github.com/khanhchuads/tel-assistent",
+  "homepage": "https://github.com/khanhchuads/tel-assistant",
   "author": "KhanhChua",
   "license": "MIT",
   "eslintConfig": {
